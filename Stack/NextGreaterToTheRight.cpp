@@ -32,7 +32,7 @@ vector<int> nextGreaterToTheRight(vector<int>vec){
 }
 int main(){
 
-        vector<int> vec= {15,20};
+        vector<int> vec= {15,20,21,5,7,1,2,3,4};
         vector<int>v=nextGreaterToTheRight(vec);
         for(int i=0;i<v.size();i++){
             cout<<v[i]<<" ";
