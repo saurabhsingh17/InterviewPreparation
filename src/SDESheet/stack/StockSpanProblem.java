@@ -1,8 +1,7 @@
-package stack;
+package SDESheet.stack;
 
 public class StockSpanProblem {
-
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        {}
     }
 }
